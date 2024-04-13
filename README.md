@@ -8,7 +8,7 @@ A basic HTML, CSS, and JS challenge from Frontend Mentor. This is the solution t
 <h2> Links </h2>
 
 <li> Link to solution: https://www.frontendmentor.io/solutions/interactive-pricing-component-solution-YPmmo0eX64 </li>
-<li> Link to live demo: https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8/solutions/new </li>
+<li> Link to live demo: https://www.frontendmentor.io/solutions/interactive-pricing-component-solution-YPmmo0eX64 </li>
 
 <h2> What have I learned </h2>
 
